@@ -31,7 +31,7 @@ Python: The programming language used to implement the game logic and user inter
 
 a. Clone the repository to your local machine:
 
-   git clone https://github.com/shivakumarmurarishetti/game-hub.git
+   [git clone https://github.com/shivakumarmurarishetti/game-hub](https://github.com/shivakumarmurarishetti/game_hub)
    
 b. Navigate to the project directory:
 
