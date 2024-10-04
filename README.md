@@ -39,4 +39,5 @@ b. Navigate to the project directory:
    
 c. Run the game using Python:
 
-   python main.py  
+  python All_Games_module.py
+ 
